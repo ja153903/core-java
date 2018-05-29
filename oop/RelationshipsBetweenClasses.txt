@@ -1,0 +1,3 @@
+Dependence ("uses-a")
+Aggregation ("has-a")
+Inheritance ("is-a")
