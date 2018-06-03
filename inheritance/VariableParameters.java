@@ -1,3 +1,5 @@
+package inheritance;
+
 public class VariableParameters {
     /*
     public void f(Object... args);
